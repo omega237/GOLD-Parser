@@ -1,0 +1,1 @@
+select * from a, b, c where b = c and d = e group by f having c = g order by a
